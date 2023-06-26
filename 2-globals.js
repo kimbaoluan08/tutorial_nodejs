@@ -1,0 +1,1 @@
+// GLOBALS - NO WINDOW
